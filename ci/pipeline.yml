@@ -1,4 +1,3 @@
----
 resource_types:
   - name: npm-cache
     type: docker-image
